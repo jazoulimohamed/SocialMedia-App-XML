@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">appSocialmedia</string>
+    <string name="fblink">www.facebook.com/mohamedjazouli"</string>
+    <string name="twlink">twitter.com/mohamedjazouli</string>
+    <string name="fb">Facebook</string>
+    <string name="firstName">Mohamed Jazouli</string>
+</resources>
